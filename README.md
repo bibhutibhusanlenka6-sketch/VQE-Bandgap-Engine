@@ -9,3 +9,4 @@ This algorithm bridges classical computational chemistry (PySCF) with quantum ci
 Ensure you have a Python 3.9+ environment. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+https://doi.org/10.5281/zenodo.23330781
